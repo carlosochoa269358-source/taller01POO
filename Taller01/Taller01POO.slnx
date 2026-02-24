@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Taller01.frontend/Taller01.frontend.csproj" />
+  <Project Path="Taller01Backend/Taller01Backend.csproj" />
+</Solution>
