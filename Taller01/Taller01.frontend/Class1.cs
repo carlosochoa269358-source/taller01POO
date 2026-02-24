@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace Taller01.frontend
+﻿namespace Taller01.frontend
 {
     public class Time
 
